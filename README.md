@@ -32,7 +32,7 @@ C++ · Numerical Methods · Linear Algebra · Simulation
 📋 **[Task Management Web Application](https://github.com/k4rol4j/Task-Management-Web-Application)**  
 React · TypeScript · Node.js · REST API
 
-🫁 **[Respiratory Sound Analysis](https://github.com/k4rol4j/Digital-Phenotyping-of-Respiratory-Diseases-Using-Acoustic-Signal-Analysis-and-Machine-Learning)**  
+🫁 **[Digital Phenotyping of Respiratory Diseases Using Acoustic Signal Analysis and Machine Learning Methods](https://github.com/k4rol4j/Digital-Phenotyping-of-Respiratory-Diseases-Using-Acoustic-Signal-Analysis-and-Machine-Learning)**  
 Python · Data Pipelines · Signal Processing · Machine Learning
 
 ## Experience
