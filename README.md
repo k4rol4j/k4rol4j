@@ -32,7 +32,7 @@ React · TypeScript · Node.js · REST API
 🤖 **[Sign Language Recognition](https://github.com/k4rol4j/AI_Sign_Language_Translator)**  
 Python · TensorFlow · Keras · CNN[cite: 1]
 
-🫁 **[Respiratory Sound Analysis](https://github.com/k4rol4j)**  
+🫁 **[Respiratory Sound Analysis](https://github.com/k4rol4j/Digital-Phenotyping-of-Respiratory-Diseases-Using-Acoustic-Signal-Analysis-and-Machine-Learning)**  
 Python · Data Pipelines · Signal Processing · Machine Learning
 
 ## Experience
