@@ -27,7 +27,7 @@ TypeScript · Backend · REST API · Testing
 Python · TensorFlow · Keras · CNN
 
 🧮 **[MES — Finite Element Method Solver](https://github.com/k4rol4j/MES)**  
-C++ · Numerical Methods · Linear Algebra · Simulation
+Python · Numerical Methods · Linear Algebra · Simulation
 
 📋 **[Task Management Web Application](https://github.com/k4rol4j/Task-Management-Web-Application)**  
 React · TypeScript · Node.js · REST API
