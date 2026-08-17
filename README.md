@@ -23,7 +23,7 @@ Python · Data Pipelines · Signal Processing · Machine Learning
 💳 **[SWIFT Codes API](https://github.com/k4rol4j/swift-codes-api)**  
 TypeScript · Backend · REST API · Testing
 
-🍽️ **[RestaurantsApp](https://github.com/k4rol4j/Restaurant_Reservation_Web_Application)**  
+🍽️ **[RestaurantsApp](https://github.com/k4rol4j/RestaurantsApp)**  
 React · TypeScript · Node.js · PostgreSQL · REST API[cite: 1]
 
 🧮 **[MES — Finite Element Method Solver](https://github.com/k4rol4j/MES)**  
@@ -37,7 +37,7 @@ Python · TensorFlow · Keras · CNN[cite: 1]
 
 ## Experience
 
-Ericsson — Junior Software Developer
+Ericsson - Junior Software Developer
 
 ## Education
 
