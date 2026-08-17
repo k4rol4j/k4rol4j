@@ -21,7 +21,7 @@ Machine Learning · Data Processing
 TypeScript · Backend · REST API · Testing
 
 🍽️ **[RestaurantsApp](https://github.com/k4rol4j/RestaurantsApp)**  
-React · TypeScript · Node.js · PostgreSQL · REST API[cite: 1]
+React · TypeScript · Node.js · PostgreSQL · REST API
 
 🧮 **[MES — Finite Element Method Solver](https://github.com/k4rol4j/MES)**  
 C++ · Numerical Methods · Linear Algebra · Simulation
@@ -30,7 +30,7 @@ C++ · Numerical Methods · Linear Algebra · Simulation
 React · TypeScript · Node.js · REST API
 
 🤖 **[Sign Language Recognition](https://github.com/k4rol4j/AI_Sign_Language_Translator)**  
-Python · TensorFlow · Keras · CNN[cite: 1]
+Python · TensorFlow · Keras · CNN
 
 🫁 **[Respiratory Sound Analysis](https://github.com/k4rol4j/Digital-Phenotyping-of-Respiratory-Diseases-Using-Acoustic-Signal-Analysis-and-Machine-Learning)**  
 Python · Data Pipelines · Signal Processing · Machine Learning
