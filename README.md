@@ -17,17 +17,23 @@ Machine Learning · Data Processing
 
 ## Featured Projects
 
-🫁 Respiratory Sound Analysis
+🫁 **[Respiratory Sound Analysis](https://github.com/k4rol4j)**  
 Python · Data Pipelines · Signal Processing · Machine Learning
 
-🍽️ RestaurantsApp
+💳 **[SWIFT Codes API](https://github.com/k4rol4j/swift-codes-api)**  
+TypeScript · Backend · REST API · Testing
+
+🍽️ **[RestaurantsApp](https://github.com/k4rol4j/Restaurant_Reservation_Web_Application)**  
+React · TypeScript · Node.js · PostgreSQL · REST API[cite: 1]
+
+🧮 **[MES — Finite Element Method Solver](https://github.com/k4rol4j/MES)**  
+C++ · Numerical Methods · Linear Algebra · Simulation
+
+📋 **[Task Management Web Application](https://github.com/k4rol4j/Task-Management-Web-Application)**  
 React · TypeScript · Node.js · REST API
 
-💳 SWIFT Codes API
-TypeScript · Backend · API · Testing
-
-🤖 Sign Language Recognition
-Python · TensorFlow · Keras · CNN
+🤖 **[Sign Language Recognition](https://github.com/k4rol4j/AI_Sign_Language_Translator)**  
+Python · TensorFlow · Keras · CNN[cite: 1]
 
 ## Experience
 
