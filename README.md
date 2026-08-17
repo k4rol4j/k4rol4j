@@ -1,16 +1,40 @@
-## Hi there 👋
+# Karolina Jędryczka
 
-<!--
-**k4rol4j/k4rol4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer | Python & C++
 
-Here are some ideas to get you started:
+Software developer with commercial experience at Ericsson,
+working on a large-scale production system in C++ and Python on Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing an MSc in Biomedical Engineering at AGH,
+with a focus on Python-based data processing and machine learning.
+
+## Tech Stack
+
+Python · C++ · TypeScript · SQL
+Linux · Git · Docker
+APIs · Automated Testing
+Machine Learning · Data Processing
+
+## Featured Projects
+
+🫁 Respiratory Sound Analysis
+Python · Data Pipelines · Signal Processing · Machine Learning
+
+🍽️ RestaurantsApp
+React · TypeScript · Node.js · REST API
+
+💳 SWIFT Codes API
+TypeScript · Backend · API · Testing
+
+🤖 Sign Language Recognition
+Python · TensorFlow · Keras · CNN
+
+## Experience
+
+Ericsson — Junior Software Developer
+
+## Education
+
+AGH University of Science and Technology
+MSc Biomedical Engineering
+BSc Computer Science in Engineering
